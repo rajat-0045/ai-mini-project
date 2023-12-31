@@ -1,0 +1,2 @@
+# ai-mini-project
+project
